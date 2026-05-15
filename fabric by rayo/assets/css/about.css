@@ -1,0 +1,3 @@
+@import url('./index.css');
+.about-page .story-card{background:linear-gradient(180deg,hsl(var(--card)),hsl(var(--muted)))}
+@media(max-width:767px){.about-page .story-card{border-radius:20px}}
